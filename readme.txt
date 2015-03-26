@@ -7,3 +7,6 @@ Push test.
 Creating a new branch is quick and simpla.i
 
 creating dev branch ...
+
+
+修复了bug
